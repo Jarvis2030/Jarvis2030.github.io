@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Hong Kong University of Science and Technology',
+    degree: 'BEng in Computer Engineering',
+    link: 'https://hkust.edu.hk',
+    year: 2020,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Chalmers University of Technology',
+    degree: 'Fall term Exchange student in Computer Engineering',
+    link: 'https://www.chalmers.se/en/',
+    year: 2023,
   },
 ];
 

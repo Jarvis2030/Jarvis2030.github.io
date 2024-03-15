@@ -23,7 +23,7 @@ const data = [
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
   {
-    title: 'Space Potato',
+    title: 'Linebot Web Crawler',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
@@ -34,7 +34,7 @@ const data = [
       + 'You can email me for a copy.',
   },
   {
-    title: 'Cat Detector',
+    title: 'Hnad Gesture Recognizer',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
     date: '2015-05-15',
