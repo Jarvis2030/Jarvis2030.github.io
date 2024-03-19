@@ -41,20 +41,14 @@ const work = [
   {
     name: 'USThing Mobile App maintainence team',
     position: 'UX/UI designer',
-    url: 'https://arthena.com',
+    url: 'https://usthing.xyz/',
     startDate: '2021-09-22',
     endDate: '2022-06-15',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    summary: 'USThing is an all-in-one app solution that offers comprehensive IT services at HKUST. As a member of the development team, our mission is to maintain, innovate, and surpass existing solutions while addressing the specific needs of students to enhance their overall experiences.',
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      'Conducted user research and surveys to gain insights into potential needs and identify flaws in the app.',
+      'Redesigned the framework and user interface for the new version, focusing on improving usability and user experience.',
+      'Facilitated discussions and brainstorming sessions to generate innovative ideas for new student-focused functions.',
     ],
   },
 ];

@@ -37,10 +37,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Delicacies
 - Jokes & Memes
 - Rainy day
-- Anime ([Attack On Titan](https://www.netflix.com/my-en/title/70299043), [Haikyuー!!](https://www.netflix.com/hk/title/80090673), [Chainsaw Man](https://www.netflix.com/hk/title/81215627), [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo), [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo), [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo) )
+- Anime ([Attack On Titan](https://www.netflix.com/my-en/title/70299043), [Haikyuー!!](https://www.netflix.com/hk/title/80090673), [Chainsaw Man](https://www.netflix.com/hk/title/81215627), [Hajime no Ippo](https://en.wikipedia.org/wiki/Hajime_no_Ippo))
 - Aroma
-- [Books](https://www.goodreads.com/mdangelo)
-- [Good design](/)
 
 # Travel / Geography
 
